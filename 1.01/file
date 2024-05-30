@@ -1,0 +1,19 @@
+OCR (Optical Character Recognition)
+
+Python Library works well on computer generated text but not on handwritten one. 
+
+Though, there are other ML modules that work well though.
+
+Workflow:
+
+Changes based on type of document and also quality of that document but for most part it looks like
+
+1. PIL (Pillow) = Used to open an Image
+
+2. OpenCV = Change an Image (Manipulate the Image, like greyscale it, tune the other things or take bits out of it, extract a table out of the image)
+
+3. Tessereact (PyTesseract) = OCR an Image (has about 14 parameters; over 100 languages supported)
+
+For a computer an image is simple a grid of pixels, no text exists for it of course.
+
+Tabula - a good library to extract tabular data
