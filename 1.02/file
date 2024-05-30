@@ -1,0 +1,13 @@
+libraries
+
+1. pip install pillow
+
+// basically cli PhotoShop for python
+2. pip install opencv-python
+
+    imported as: import cv2
+
+// PyTesseract from google (easier but limited): Need to download tesseract
+UB-Mannheim: Tesseract library https://github.com/UB-Mannheim/tesseract/wiki
+after installing it need to add environment variable as well: Default is "C:\Program Files\Tesseract-OCR"
+3. pip install pytessetact
