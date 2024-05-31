@@ -10,5 +10,3 @@ This repository contains notes and resources for learning Optical Character Reco
 ## About the Instructor
 
 Dr. William Mattingly is an expert in OCR and digital humanities, offering comprehensive insights and practical approaches to mastering OCR with Python.
-
-## and of course notes folder is in gitignore kekw
